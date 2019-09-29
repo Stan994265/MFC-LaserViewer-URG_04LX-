@@ -1,0 +1,128 @@
+﻿生成启动时间为 2019/9/29 星期日 下午 7:00:37。
+     1>项目“F:\wangyan\煤矿救援机器人 项目\救援机器人运动控制系统备份\laser\laser\laser\laser.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Debug\laser.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         所有输出均为最新。
+         E:\Visual_Studio2010\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _MBCS /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\laser.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt laserDlg.cpp
+         laserDlg.cpp
+     1>f:\wangyan\煤矿救援机器人 项目\救援机器人运动控制系统备份\laser\laser\laser\laserdlg.cpp(686): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>f:\wangyan\煤矿救援机器人 项目\救援机器人运动控制系统备份\laser\laser\laser\laserdlg.cpp(687): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>f:\wangyan\煤矿救援机器人 项目\救援机器人运动控制系统备份\laser\laser\laser\laserdlg.cpp(804): warning C4244: “=”: 从“double”转换到“long”，可能丢失数据
+     1>f:\wangyan\煤矿救援机器人 项目\救援机器人运动控制系统备份\laser\laser\laser\laserdlg.cpp(805): warning C4244: “=”: 从“double”转换到“long”，可能丢失数据
+     1>f:\wangyan\煤矿救援机器人 项目\救援机器人运动控制系统备份\laser\laser\laser\laserdlg.cpp(806): warning C4244: “=”: 从“double”转换到“long”，可能丢失数据
+     1>f:\wangyan\煤矿救援机器人 项目\救援机器人运动控制系统备份\laser\laser\laser\laserdlg.cpp(807): warning C4244: “=”: 从“double”转换到“long”，可能丢失数据
+     1>f:\wangyan\煤矿救援机器人 项目\救援机器人运动控制系统备份\laser\laser\laser\laserdlg.cpp(808): warning C4244: “=”: 从“double”转换到“long”，可能丢失数据
+     1>f:\wangyan\煤矿救援机器人 项目\救援机器人运动控制系统备份\laser\laser\laser\laserdlg.cpp(809): warning C4244: “=”: 从“double”转换到“long”，可能丢失数据
+     1>f:\wangyan\煤矿救援机器人 项目\救援机器人运动控制系统备份\laser\laser\laser\laserdlg.cpp(810): warning C4244: “=”: 从“double”转换到“long”，可能丢失数据
+     1>f:\wangyan\煤矿救援机器人 项目\救援机器人运动控制系统备份\laser\laser\laser\laserdlg.cpp(811): warning C4244: “=”: 从“double”转换到“long”，可能丢失数据
+     1>f:\wangyan\煤矿救援机器人 项目\救援机器人运动控制系统备份\laser\laser\laser\laserdlg.cpp(812): warning C4244: “=”: 从“double”转换到“long”，可能丢失数据
+     1>f:\wangyan\煤矿救援机器人 项目\救援机器人运动控制系统备份\laser\laser\laser\laserdlg.cpp(813): warning C4244: “=”: 从“double”转换到“long”，可能丢失数据
+     1>f:\wangyan\煤矿救援机器人 项目\救援机器人运动控制系统备份\laser\laser\laser\laserdlg.cpp(814): warning C4244: “=”: 从“double”转换到“long”，可能丢失数据
+     1>f:\wangyan\煤矿救援机器人 项目\救援机器人运动控制系统备份\laser\laser\laser\laserdlg.cpp(815): warning C4244: “=”: 从“double”转换到“long”，可能丢失数据
+     1>f:\wangyan\煤矿救援机器人 项目\救援机器人运动控制系统备份\laser\laser\laser\laserdlg.cpp(816): warning C4244: “=”: 从“double”转换到“long”，可能丢失数据
+     1>f:\wangyan\煤矿救援机器人 项目\救援机器人运动控制系统备份\laser\laser\laser\laserdlg.cpp(817): warning C4244: “=”: 从“double”转换到“long”，可能丢失数据
+     1>f:\wangyan\煤矿救援机器人 项目\救援机器人运动控制系统备份\laser\laser\laser\laserdlg.cpp(818): warning C4244: “=”: 从“double”转换到“long”，可能丢失数据
+     1>f:\wangyan\煤矿救援机器人 项目\救援机器人运动控制系统备份\laser\laser\laser\laserdlg.cpp(819): warning C4244: “=”: 从“double”转换到“long”，可能丢失数据
+     1>f:\wangyan\煤矿救援机器人 项目\救援机器人运动控制系统备份\laser\laser\laser\laserdlg.cpp(820): warning C4244: “=”: 从“double”转换到“long”，可能丢失数据
+     1>f:\wangyan\煤矿救援机器人 项目\救援机器人运动控制系统备份\laser\laser\laser\laserdlg.cpp(821): warning C4244: “=”: 从“double”转换到“long”，可能丢失数据
+     1>f:\wangyan\煤矿救援机器人 项目\救援机器人运动控制系统备份\laser\laser\laser\laserdlg.cpp(822): warning C4244: “=”: 从“double”转换到“long”，可能丢失数据
+     1>f:\wangyan\煤矿救援机器人 项目\救援机器人运动控制系统备份\laser\laser\laser\laserdlg.cpp(823): warning C4244: “=”: 从“double”转换到“long”，可能丢失数据
+     1>f:\wangyan\煤矿救援机器人 项目\救援机器人运动控制系统备份\laser\laser\laser\laserdlg.cpp(824): warning C4244: “=”: 从“double”转换到“long”，可能丢失数据
+     1>f:\wangyan\煤矿救援机器人 项目\救援机器人运动控制系统备份\laser\laser\laser\laserdlg.cpp(825): warning C4244: “=”: 从“double”转换到“long”，可能丢失数据
+     1>f:\wangyan\煤矿救援机器人 项目\救援机器人运动控制系统备份\laser\laser\laser\laserdlg.cpp(826): warning C4244: “=”: 从“double”转换到“long”，可能丢失数据
+     1>f:\wangyan\煤矿救援机器人 项目\救援机器人运动控制系统备份\laser\laser\laser\laserdlg.cpp(827): warning C4244: “=”: 从“double”转换到“long”，可能丢失数据
+     1>f:\wangyan\煤矿救援机器人 项目\救援机器人运动控制系统备份\laser\laser\laser\laserdlg.cpp(828): warning C4244: “=”: 从“double”转换到“long”，可能丢失数据
+     1>f:\wangyan\煤矿救援机器人 项目\救援机器人运动控制系统备份\laser\laser\laser\laserdlg.cpp(829): warning C4244: “=”: 从“double”转换到“long”，可能丢失数据
+     1>f:\wangyan\煤矿救援机器人 项目\救援机器人运动控制系统备份\laser\laser\laser\laserdlg.cpp(830): warning C4244: “=”: 从“double”转换到“long”，可能丢失数据
+     1>f:\wangyan\煤矿救援机器人 项目\救援机器人运动控制系统备份\laser\laser\laser\laserdlg.cpp(831): warning C4244: “=”: 从“double”转换到“long”，可能丢失数据
+     1>f:\wangyan\煤矿救援机器人 项目\救援机器人运动控制系统备份\laser\laser\laser\laserdlg.cpp(832): warning C4244: “=”: 从“double”转换到“long”，可能丢失数据
+     1>f:\wangyan\煤矿救援机器人 项目\救援机器人运动控制系统备份\laser\laser\laser\laserdlg.cpp(833): warning C4244: “=”: 从“double”转换到“long”，可能丢失数据
+     1>f:\wangyan\煤矿救援机器人 项目\救援机器人运动控制系统备份\laser\laser\laser\laserdlg.cpp(834): warning C4244: “=”: 从“double”转换到“long”，可能丢失数据
+     1>f:\wangyan\煤矿救援机器人 项目\救援机器人运动控制系统备份\laser\laser\laser\laserdlg.cpp(835): warning C4244: “=”: 从“double”转换到“long”，可能丢失数据
+     1>f:\wangyan\煤矿救援机器人 项目\救援机器人运动控制系统备份\laser\laser\laser\laserdlg.cpp(836): warning C4244: “=”: 从“double”转换到“long”，可能丢失数据
+     1>f:\wangyan\煤矿救援机器人 项目\救援机器人运动控制系统备份\laser\laser\laser\laserdlg.cpp(837): warning C4244: “=”: 从“double”转换到“long”，可能丢失数据
+     1>f:\wangyan\煤矿救援机器人 项目\救援机器人运动控制系统备份\laser\laser\laser\laserdlg.cpp(838): warning C4244: “=”: 从“double”转换到“long”，可能丢失数据
+     1>f:\wangyan\煤矿救援机器人 项目\救援机器人运动控制系统备份\laser\laser\laser\laserdlg.cpp(839): warning C4244: “=”: 从“double”转换到“long”，可能丢失数据
+     1>f:\wangyan\煤矿救援机器人 项目\救援机器人运动控制系统备份\laser\laser\laser\laserdlg.cpp(840): warning C4244: “=”: 从“double”转换到“long”，可能丢失数据
+     1>f:\wangyan\煤矿救援机器人 项目\救援机器人运动控制系统备份\laser\laser\laser\laserdlg.cpp(841): warning C4244: “=”: 从“double”转换到“long”，可能丢失数据
+     1>f:\wangyan\煤矿救援机器人 项目\救援机器人运动控制系统备份\laser\laser\laser\laserdlg.cpp(842): warning C4244: “=”: 从“double”转换到“long”，可能丢失数据
+     1>f:\wangyan\煤矿救援机器人 项目\救援机器人运动控制系统备份\laser\laser\laser\laserdlg.cpp(843): warning C4244: “=”: 从“double”转换到“long”，可能丢失数据
+     1>f:\wangyan\煤矿救援机器人 项目\救援机器人运动控制系统备份\laser\laser\laser\laserdlg.cpp(844): warning C4244: “=”: 从“double”转换到“long”，可能丢失数据
+     1>f:\wangyan\煤矿救援机器人 项目\救援机器人运动控制系统备份\laser\laser\laser\laserdlg.cpp(845): warning C4244: “=”: 从“double”转换到“long”，可能丢失数据
+     1>f:\wangyan\煤矿救援机器人 项目\救援机器人运动控制系统备份\laser\laser\laser\laserdlg.cpp(846): warning C4244: “=”: 从“double”转换到“long”，可能丢失数据
+     1>f:\wangyan\煤矿救援机器人 项目\救援机器人运动控制系统备份\laser\laser\laser\laserdlg.cpp(847): warning C4244: “=”: 从“double”转换到“long”，可能丢失数据
+     1>f:\wangyan\煤矿救援机器人 项目\救援机器人运动控制系统备份\laser\laser\laser\laserdlg.cpp(848): warning C4244: “=”: 从“double”转换到“long”，可能丢失数据
+     1>f:\wangyan\煤矿救援机器人 项目\救援机器人运动控制系统备份\laser\laser\laser\laserdlg.cpp(849): warning C4244: “=”: 从“double”转换到“long”，可能丢失数据
+     1>f:\wangyan\煤矿救援机器人 项目\救援机器人运动控制系统备份\laser\laser\laser\laserdlg.cpp(850): warning C4244: “=”: 从“double”转换到“long”，可能丢失数据
+     1>f:\wangyan\煤矿救援机器人 项目\救援机器人运动控制系统备份\laser\laser\laser\laserdlg.cpp(851): warning C4244: “=”: 从“double”转换到“long”，可能丢失数据
+     1>f:\wangyan\煤矿救援机器人 项目\救援机器人运动控制系统备份\laser\laser\laser\laserdlg.cpp(852): warning C4244: “=”: 从“double”转换到“long”，可能丢失数据
+     1>f:\wangyan\煤矿救援机器人 项目\救援机器人运动控制系统备份\laser\laser\laser\laserdlg.cpp(853): warning C4244: “=”: 从“double”转换到“long”，可能丢失数据
+     1>f:\wangyan\煤矿救援机器人 项目\救援机器人运动控制系统备份\laser\laser\laser\laserdlg.cpp(854): warning C4244: “=”: 从“double”转换到“long”，可能丢失数据
+     1>f:\wangyan\煤矿救援机器人 项目\救援机器人运动控制系统备份\laser\laser\laser\laserdlg.cpp(855): warning C4244: “=”: 从“double”转换到“long”，可能丢失数据
+     1>f:\wangyan\煤矿救援机器人 项目\救援机器人运动控制系统备份\laser\laser\laser\laserdlg.cpp(856): warning C4244: “=”: 从“double”转换到“long”，可能丢失数据
+     1>f:\wangyan\煤矿救援机器人 项目\救援机器人运动控制系统备份\laser\laser\laser\laserdlg.cpp(857): warning C4244: “=”: 从“double”转换到“long”，可能丢失数据
+     1>f:\wangyan\煤矿救援机器人 项目\救援机器人运动控制系统备份\laser\laser\laser\laserdlg.cpp(858): warning C4244: “=”: 从“double”转换到“long”，可能丢失数据
+     1>f:\wangyan\煤矿救援机器人 项目\救援机器人运动控制系统备份\laser\laser\laser\laserdlg.cpp(859): warning C4244: “=”: 从“double”转换到“long”，可能丢失数据
+     1>f:\wangyan\煤矿救援机器人 项目\救援机器人运动控制系统备份\laser\laser\laser\laserdlg.cpp(860): warning C4244: “=”: 从“double”转换到“long”，可能丢失数据
+     1>f:\wangyan\煤矿救援机器人 项目\救援机器人运动控制系统备份\laser\laser\laser\laserdlg.cpp(861): warning C4244: “=”: 从“double”转换到“long”，可能丢失数据
+     1>f:\wangyan\煤矿救援机器人 项目\救援机器人运动控制系统备份\laser\laser\laser\laserdlg.cpp(862): warning C4244: “=”: 从“double”转换到“long”，可能丢失数据
+     1>f:\wangyan\煤矿救援机器人 项目\救援机器人运动控制系统备份\laser\laser\laser\laserdlg.cpp(863): warning C4244: “=”: 从“double”转换到“long”，可能丢失数据
+     1>f:\wangyan\煤矿救援机器人 项目\救援机器人运动控制系统备份\laser\laser\laser\laserdlg.cpp(864): warning C4244: “=”: 从“double”转换到“long”，可能丢失数据
+     1>f:\wangyan\煤矿救援机器人 项目\救援机器人运动控制系统备份\laser\laser\laser\laserdlg.cpp(865): warning C4244: “=”: 从“double”转换到“long”，可能丢失数据
+     1>f:\wangyan\煤矿救援机器人 项目\救援机器人运动控制系统备份\laser\laser\laser\laserdlg.cpp(866): warning C4244: “=”: 从“double”转换到“long”，可能丢失数据
+     1>f:\wangyan\煤矿救援机器人 项目\救援机器人运动控制系统备份\laser\laser\laser\laserdlg.cpp(867): warning C4244: “=”: 从“double”转换到“long”，可能丢失数据
+     1>f:\wangyan\煤矿救援机器人 项目\救援机器人运动控制系统备份\laser\laser\laser\laserdlg.cpp(868): warning C4244: “=”: 从“double”转换到“long”，可能丢失数据
+     1>f:\wangyan\煤矿救援机器人 项目\救援机器人运动控制系统备份\laser\laser\laser\laserdlg.cpp(869): warning C4244: “=”: 从“double”转换到“long”，可能丢失数据
+     1>f:\wangyan\煤矿救援机器人 项目\救援机器人运动控制系统备份\laser\laser\laser\laserdlg.cpp(870): warning C4244: “=”: 从“double”转换到“long”，可能丢失数据
+     1>f:\wangyan\煤矿救援机器人 项目\救援机器人运动控制系统备份\laser\laser\laser\laserdlg.cpp(871): warning C4244: “=”: 从“double”转换到“long”，可能丢失数据
+     1>f:\wangyan\煤矿救援机器人 项目\救援机器人运动控制系统备份\laser\laser\laser\laserdlg.cpp(872): warning C4244: “=”: 从“double”转换到“long”，可能丢失数据
+     1>f:\wangyan\煤矿救援机器人 项目\救援机器人运动控制系统备份\laser\laser\laser\laserdlg.cpp(873): warning C4244: “=”: 从“double”转换到“long”，可能丢失数据
+     1>f:\wangyan\煤矿救援机器人 项目\救援机器人运动控制系统备份\laser\laser\laser\laserdlg.cpp(874): warning C4244: “=”: 从“double”转换到“long”，可能丢失数据
+     1>f:\wangyan\煤矿救援机器人 项目\救援机器人运动控制系统备份\laser\laser\laser\laserdlg.cpp(875): warning C4244: “=”: 从“double”转换到“long”，可能丢失数据
+     1>f:\wangyan\煤矿救援机器人 项目\救援机器人运动控制系统备份\laser\laser\laser\laserdlg.cpp(876): warning C4244: “=”: 从“double”转换到“long”，可能丢失数据
+     1>f:\wangyan\煤矿救援机器人 项目\救援机器人运动控制系统备份\laser\laser\laser\laserdlg.cpp(877): warning C4244: “=”: 从“double”转换到“long”，可能丢失数据
+     1>f:\wangyan\煤矿救援机器人 项目\救援机器人运动控制系统备份\laser\laser\laser\laserdlg.cpp(878): warning C4244: “=”: 从“double”转换到“long”，可能丢失数据
+     1>f:\wangyan\煤矿救援机器人 项目\救援机器人运动控制系统备份\laser\laser\laser\laserdlg.cpp(879): warning C4244: “=”: 从“double”转换到“long”，可能丢失数据
+     1>f:\wangyan\煤矿救援机器人 项目\救援机器人运动控制系统备份\laser\laser\laser\laserdlg.cpp(880): warning C4244: “=”: 从“double”转换到“long”，可能丢失数据
+     1>f:\wangyan\煤矿救援机器人 项目\救援机器人运动控制系统备份\laser\laser\laser\laserdlg.cpp(881): warning C4244: “=”: 从“double”转换到“long”，可能丢失数据
+     1>f:\wangyan\煤矿救援机器人 项目\救援机器人运动控制系统备份\laser\laser\laser\laserdlg.cpp(882): warning C4244: “=”: 从“double”转换到“long”，可能丢失数据
+     1>f:\wangyan\煤矿救援机器人 项目\救援机器人运动控制系统备份\laser\laser\laser\laserdlg.cpp(883): warning C4244: “=”: 从“double”转换到“long”，可能丢失数据
+     1>f:\wangyan\煤矿救援机器人 项目\救援机器人运动控制系统备份\laser\laser\laser\laserdlg.cpp(884): warning C4244: “=”: 从“double”转换到“long”，可能丢失数据
+     1>f:\wangyan\煤矿救援机器人 项目\救援机器人运动控制系统备份\laser\laser\laser\laserdlg.cpp(885): warning C4244: “=”: 从“double”转换到“long”，可能丢失数据
+     1>f:\wangyan\煤矿救援机器人 项目\救援机器人运动控制系统备份\laser\laser\laser\laserdlg.cpp(886): warning C4244: “=”: 从“double”转换到“long”，可能丢失数据
+     1>f:\wangyan\煤矿救援机器人 项目\救援机器人运动控制系统备份\laser\laser\laser\laserdlg.cpp(887): warning C4244: “=”: 从“double”转换到“long”，可能丢失数据
+     1>f:\wangyan\煤矿救援机器人 项目\救援机器人运动控制系统备份\laser\laser\laser\laserdlg.cpp(888): warning C4244: “=”: 从“double”转换到“long”，可能丢失数据
+     1>f:\wangyan\煤矿救援机器人 项目\救援机器人运动控制系统备份\laser\laser\laser\laserdlg.cpp(889): warning C4244: “=”: 从“double”转换到“long”，可能丢失数据
+     1>f:\wangyan\煤矿救援机器人 项目\救援机器人运动控制系统备份\laser\laser\laser\laserdlg.cpp(890): warning C4244: “=”: 从“double”转换到“long”，可能丢失数据
+     1>f:\wangyan\煤矿救援机器人 项目\救援机器人运动控制系统备份\laser\laser\laser\laserdlg.cpp(891): warning C4244: “=”: 从“double”转换到“long”，可能丢失数据
+     1>f:\wangyan\煤矿救援机器人 项目\救援机器人运动控制系统备份\laser\laser\laser\laserdlg.cpp(892): warning C4244: “=”: 从“double”转换到“long”，可能丢失数据
+     1>f:\wangyan\煤矿救援机器人 项目\救援机器人运动控制系统备份\laser\laser\laser\laserdlg.cpp(893): warning C4244: “=”: 从“double”转换到“long”，可能丢失数据
+     1>f:\wangyan\煤矿救援机器人 项目\救援机器人运动控制系统备份\laser\laser\laser\laserdlg.cpp(894): warning C4244: “=”: 从“double”转换到“long”，可能丢失数据
+     1>f:\wangyan\煤矿救援机器人 项目\救援机器人运动控制系统备份\laser\laser\laser\laserdlg.cpp(895): warning C4244: “=”: 从“double”转换到“long”，可能丢失数据
+     1>f:\wangyan\煤矿救援机器人 项目\救援机器人运动控制系统备份\laser\laser\laser\laserdlg.cpp(896): warning C4244: “=”: 从“double”转换到“long”，可能丢失数据
+     1>f:\wangyan\煤矿救援机器人 项目\救援机器人运动控制系统备份\laser\laser\laser\laserdlg.cpp(897): warning C4244: “=”: 从“double”转换到“long”，可能丢失数据
+     1>f:\wangyan\煤矿救援机器人 项目\救援机器人运动控制系统备份\laser\laser\laser\laserdlg.cpp(898): warning C4244: “=”: 从“double”转换到“long”，可能丢失数据
+     1>f:\wangyan\煤矿救援机器人 项目\救援机器人运动控制系统备份\laser\laser\laser\laserdlg.cpp(899): warning C4244: “=”: 从“double”转换到“long”，可能丢失数据
+     1>f:\wangyan\煤矿救援机器人 项目\救援机器人运动控制系统备份\laser\laser\laser\laserdlg.cpp(900): warning C4244: “=”: 从“double”转换到“long”，可能丢失数据
+     1>f:\wangyan\煤矿救援机器人 项目\救援机器人运动控制系统备份\laser\laser\laser\laserdlg.cpp(901): warning C4244: “=”: 从“double”转换到“long”，可能丢失数据
+     1>f:\wangyan\煤矿救援机器人 项目\救援机器人运动控制系统备份\laser\laser\laser\laserdlg.cpp(909): warning C4244: “初始化”: 从“double”转换到“long”，可能丢失数据
+       ResourceCompile:
+         所有输出均为最新。
+       Link:
+         E:\Visual_Studio2010\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\wangyan\煤矿救援机器人 项目\救援机器人运动控制系统备份\laser\laser\Debug\laser.exe" /INCREMENTAL /NOLOGO /MANIFEST /ManifestFile:"Debug\laser.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"F:\wangyan\煤矿救援机器人 项目\救援机器人运动控制系统备份\laser\laser\Debug\laser.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\wangyan\煤矿救援机器人 项目\救援机器人运动控制系统备份\laser\laser\Debug\laser.lib" /MACHINE:X86 Debug\laser.res
+         Debug\Baocun.obj
+         Debug\laser.obj
+         Debug\laserDlg.obj
+         Debug\stdafx.obj
+         laser.vcxproj -> F:\wangyan\煤矿救援机器人 项目\救援机器人运动控制系统备份\laser\laser\Debug\laser.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"F:\wangyan\煤矿救援机器人 项目\救援机器人运动控制系统备份\laser\laser\Debug\laser.exe.manifest" /manifest Debug\laser.exe.intermediate.manifest E:\Visual_Studio2010\VC\Include\Manifest\dpiaware.manifest
+       FinalizeBuildStatus:
+         正在删除文件“Debug\laser.unsuccessfulbuild”。
+         正在对“Debug\laser.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“F:\wangyan\煤矿救援机器人 项目\救援机器人运动控制系统备份\laser\laser\laser\laser.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.39
